@@ -5,7 +5,7 @@ Hi there! Welcome to my Github!<br>
 I am a student studying computer science.<br>
 
 ## 🎓 Education
-- Hankuk University of Foreign Studies, Division of Computer Engineering, 2th Grade
+- Hankuk University of Foreign Studies, Division of Computer Engineering, Department of Statistics, 2th Grade
 
 ## 📫 How to reach me
 <a href="mailto:masoon0221@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -17,6 +17,8 @@ I am a student studying computer science.<br>
  ## 🔭 I’m currently working on ...
  - 본인이 공부하고 있는 부분을 자유롭게 작성해주시면 됩니다( Ex) AI, Python, Javascript 등등
  
+<!-- -->
+
 ## 🔥 Experience
 - 본인의 이력을 적어주세요(직책과 함께 적어주시면 됩니다. )
 -->
