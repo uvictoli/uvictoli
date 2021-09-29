@@ -17,7 +17,6 @@ I am a student studying computer science.<br>
  ## 🔭 I’m currently working on ...
  - 본인이 공부하고 있는 부분을 자유롭게 작성해주시면 됩니다( Ex) AI, Python, Javascript 등등
  
-<!-- -->
 
 ## 🔥 Experience
 - 본인의 이력을 적어주세요(직책과 함께 적어주시면 됩니다. )
