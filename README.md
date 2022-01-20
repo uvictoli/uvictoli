@@ -5,7 +5,8 @@ Hi there! Welcome to my Github!<br>
 I am a student studying computer science.<br>
 
 ## 🎓 Education
-- Hankuk University of Foreign Studies, Division of Computer Engineering, Department of Statistics, 2th Grade
+- Hankuk University of Foreign Studies, Division of Computer Engineering
+- Hankuk University of Foreign Studies, Department of Statistics
 
 ## 📫 How to reach me
 <a href="mailto:masoon0221@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
