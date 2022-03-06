@@ -11,7 +11,7 @@ I am a student studying computer science.<br>
 ## 📫 How to reach me
 <a href="mailto:masoon0221@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/ilgnues/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="링크드인 주소" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="www.linkedin.com/in/uvictoli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://velog.io/@uvictoli" target="_blank"><img src="https://img.shields.io/badge/Blog-F56C2D?style=flat-square&logo=Opsgenie&logoColor=white"/></a>
 
 <!--
