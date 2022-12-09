@@ -31,12 +31,12 @@ I am a student studying computer science.<br>
     <h3>Language</h3>
     <ul>
        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> 
+       <!--<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>-->
        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScripton&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+        <!--<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>-->
     <img src="https://blog.kakaocdn.net/dn/dAEQye/btqDOkONLE0/5TK0HtrButojrSUVadJRP0/img.jpg" height="1" width="400">
   </td>
   <td valign="top" width="50%">
