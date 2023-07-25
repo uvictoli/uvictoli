@@ -2,25 +2,32 @@
 
 # Yoo SeungLi
 Welcome to my Github!<br>
-I'm majoring in computer science and minoring in statistics.<br>
+I'm studying AI. My goal is to apply CV and NLP techniques to the medical field. 💪🏻
 
 ## 🎓 Education
-- Hankuk University of Foreign Studies, Division of Computer Engineering
-- Hankuk University of Foreign Studies, Department of Statistics
+- Hankuk University of Foreign Studies, Division of Computer Engineering [2020.03 ~ 2023.08]
+- Hankuk University of Foreign Studies, Department of Statistics [2020.03 ~ 2023.08]
 
 ## 📫 How to reach me
-<a href="mailto:masoon0221@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:ysli@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/uvictoli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://velog.io/@uvictoli" target="_blank"><img src="https://img.shields.io/badge/Blog-F56C2D?style=flat-square&logo=Opsgenie&logoColor=white"/></a>
 
 <!--
  ## 🔭 I’m currently working on ...
  - 본인이 공부하고 있는 부분을 자유롭게 작성해주시면 됩니다( Ex) AI, Python, Javascript 등등
- 
+--> 
 
 ## 🔥 Experience
-- 본인의 이력을 적어주세요(직책과 함께 적어주시면 됩니다. )
--->
+- HUFS HAI Lab, Undergraduate researcher [2023.04 ~ 2023.07]
+- HUFS HufStory (On-campus student governance organizations) [2020.03 ~ 2022.02]
+- HUFS PNP (intramural Computer Science Student's Academy conference) AI team [2020.03 ~ 2023.08]
+
+
+## 🏆 Awards
+- 2023 Capstone Design in Hankuk University of Foreign Studies 1st Place (27 teams)
+- 2021 Engineering Content Development in DSWU WISET 3rd Place
+
 
 ## 🛠 Skills
 <center>
